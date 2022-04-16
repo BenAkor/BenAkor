@@ -13,4 +13,4 @@
 
 * The machine should boot using the Install Ubuntu option which is usually the first option in the menu
 
-* After you should be able to navigate the installation screen using the arrows keys
+* After that you should be able to navigate the installation screen using the arrows keys
